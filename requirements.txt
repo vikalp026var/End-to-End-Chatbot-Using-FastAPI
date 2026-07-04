@@ -1,0 +1,10 @@
+ctransformers==0.2.27
+sentence-transformers>=3.0.0
+faiss-cpu
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-text-splitters
